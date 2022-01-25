@@ -9,3 +9,6 @@ body{
 section{
     margin: 40px 0;
 }
+.toast{
+    width: 300px;
+}
